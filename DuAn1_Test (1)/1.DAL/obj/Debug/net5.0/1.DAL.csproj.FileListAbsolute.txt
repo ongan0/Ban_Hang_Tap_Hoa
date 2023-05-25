@@ -1,0 +1,105 @@
+D:\FPT Polytechnic\PRO131\DuAn1_Test\1.DAL\bin\Debug\net5.0\1.DAL.deps.json
+D:\FPT Polytechnic\PRO131\DuAn1_Test\1.DAL\bin\Debug\net5.0\1.DAL.dll
+D:\FPT Polytechnic\PRO131\DuAn1_Test\1.DAL\bin\Debug\net5.0\1.DAL.pdb
+D:\FPT Polytechnic\PRO131\DuAn1_Test\1.DAL\obj\Debug\net5.0\1.DAL.csproj.AssemblyReference.cache
+D:\FPT Polytechnic\PRO131\DuAn1_Test\1.DAL\obj\Debug\net5.0\1.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT Polytechnic\PRO131\DuAn1_Test\1.DAL\obj\Debug\net5.0\1.DAL.AssemblyInfoInputs.cache
+D:\FPT Polytechnic\PRO131\DuAn1_Test\1.DAL\obj\Debug\net5.0\1.DAL.AssemblyInfo.cs
+D:\FPT Polytechnic\PRO131\DuAn1_Test\1.DAL\obj\Debug\net5.0\1.DAL.csproj.CoreCompileInputs.cache
+D:\FPT Polytechnic\PRO131\DuAn1_Test\1.DAL\obj\Debug\net5.0\1.DAL.dll
+D:\FPT Polytechnic\PRO131\DuAn1_Test\1.DAL\obj\Debug\net5.0\refint\1.DAL.dll
+D:\FPT Polytechnic\PRO131\DuAn1_Test\1.DAL\obj\Debug\net5.0\1.DAL.pdb
+D:\FPT Polytechnic\PRO131\DuAn1_Test\1.DAL\obj\Debug\net5.0\ref\1.DAL.dll
+C:\Users\Admin\Desktop\DuAn1_Test\1.DAL\bin\Debug\net5.0\1.DAL.deps.json
+C:\Users\Admin\Desktop\DuAn1_Test\1.DAL\bin\Debug\net5.0\1.DAL.runtimeconfig.json
+C:\Users\Admin\Desktop\DuAn1_Test\1.DAL\bin\Debug\net5.0\1.DAL.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\DuAn1_Test\1.DAL\bin\Debug\net5.0\1.DAL.dll
+C:\Users\Admin\Desktop\DuAn1_Test\1.DAL\bin\Debug\net5.0\ref\1.DAL.dll
+C:\Users\Admin\Desktop\DuAn1_Test\1.DAL\bin\Debug\net5.0\1.DAL.pdb
+C:\Users\Admin\Desktop\DuAn1_Test\1.DAL\obj\Debug\net5.0\1.DAL.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\DuAn1_Test\1.DAL\obj\Debug\net5.0\1.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\DuAn1_Test\1.DAL\obj\Debug\net5.0\1.DAL.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\DuAn1_Test\1.DAL\obj\Debug\net5.0\1.DAL.AssemblyInfo.cs
+C:\Users\Admin\Desktop\DuAn1_Test\1.DAL\obj\Debug\net5.0\1.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DuAn1_Test\1.DAL\obj\Debug\net5.0\1.DAL.dll
+C:\Users\Admin\Desktop\DuAn1_Test\1.DAL\obj\Debug\net5.0\ref\1.DAL.dll
+C:\Users\Admin\Desktop\DuAn1_Test\1.DAL\obj\Debug\net5.0\1.DAL.pdb
+C:\Users\Admin\Desktop\DuAn1_Test\1.DAL\obj\Debug\net5.0\1.DAL.genruntimeconfig.cache
+C:\Users\ADMIN\OneDrive\Máy tính\DuAn1_Test\1.DAL\bin\Debug\net5.0\1.DAL.deps.json
+C:\Users\ADMIN\OneDrive\Máy tính\DuAn1_Test\1.DAL\bin\Debug\net5.0\1.DAL.runtimeconfig.json
+C:\Users\ADMIN\OneDrive\Máy tính\DuAn1_Test\1.DAL\bin\Debug\net5.0\1.DAL.runtimeconfig.dev.json
+C:\Users\ADMIN\OneDrive\Máy tính\DuAn1_Test\1.DAL\bin\Debug\net5.0\1.DAL.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DuAn1_Test\1.DAL\bin\Debug\net5.0\1.DAL.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\DuAn1_Test\1.DAL\obj\Debug\net5.0\1.DAL.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Máy tính\DuAn1_Test\1.DAL\obj\Debug\net5.0\1.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\OneDrive\Máy tính\DuAn1_Test\1.DAL\obj\Debug\net5.0\1.DAL.AssemblyInfoInputs.cache
+C:\Users\ADMIN\OneDrive\Máy tính\DuAn1_Test\1.DAL\obj\Debug\net5.0\1.DAL.AssemblyInfo.cs
+C:\Users\ADMIN\OneDrive\Máy tính\DuAn1_Test\1.DAL\obj\Debug\net5.0\1.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Máy tính\DuAn1_Test\1.DAL\obj\Debug\net5.0\1.DAL.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DuAn1_Test\1.DAL\obj\Debug\net5.0\refint\1.DAL.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DuAn1_Test\1.DAL\obj\Debug\net5.0\1.DAL.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\DuAn1_Test\1.DAL\obj\Debug\net5.0\1.DAL.genruntimeconfig.cache
+C:\Users\ADMIN\OneDrive\Máy tính\DuAn1_Test\1.DAL\obj\Debug\net5.0\ref\1.DAL.dll
+C:\Users\ADMIN\Downloads\DuAn1_Test\1.DAL\bin\Debug\net5.0\1.DAL.deps.json
+C:\Users\ADMIN\Downloads\DuAn1_Test\1.DAL\bin\Debug\net5.0\1.DAL.runtimeconfig.json
+C:\Users\ADMIN\Downloads\DuAn1_Test\1.DAL\bin\Debug\net5.0\1.DAL.runtimeconfig.dev.json
+C:\Users\ADMIN\Downloads\DuAn1_Test\1.DAL\bin\Debug\net5.0\1.DAL.dll
+C:\Users\ADMIN\Downloads\DuAn1_Test\1.DAL\bin\Debug\net5.0\1.DAL.pdb
+C:\Users\ADMIN\Downloads\DuAn1_Test\1.DAL\obj\Debug\net5.0\1.DAL.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\DuAn1_Test\1.DAL\obj\Debug\net5.0\1.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Downloads\DuAn1_Test\1.DAL\obj\Debug\net5.0\1.DAL.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Downloads\DuAn1_Test\1.DAL\obj\Debug\net5.0\1.DAL.AssemblyInfo.cs
+C:\Users\ADMIN\Downloads\DuAn1_Test\1.DAL\obj\Debug\net5.0\1.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\DuAn1_Test\1.DAL\obj\Debug\net5.0\1.DAL.dll
+C:\Users\ADMIN\Downloads\DuAn1_Test\1.DAL\obj\Debug\net5.0\refint\1.DAL.dll
+C:\Users\ADMIN\Downloads\DuAn1_Test\1.DAL\obj\Debug\net5.0\1.DAL.pdb
+C:\Users\ADMIN\Downloads\DuAn1_Test\1.DAL\obj\Debug\net5.0\1.DAL.genruntimeconfig.cache
+C:\Users\ADMIN\Downloads\DuAn1_Test\1.DAL\obj\Debug\net5.0\ref\1.DAL.dll
+D:\FPT Polytechnic\PRO131\DuAn1_Test\1.DAL\bin\Debug\net5.0\1.DAL.runtimeconfig.json
+D:\FPT Polytechnic\PRO131\DuAn1_Test\1.DAL\bin\Debug\net5.0\1.DAL.runtimeconfig.dev.json
+D:\FPT Polytechnic\PRO131\DuAn1_Test\1.DAL\obj\Debug\net5.0\1.DAL.genruntimeconfig.cache
+C:\Users\khanh\Downloads\DuAn1_Test (1)\1.DAL\bin\Debug\net5.0\1.DAL.deps.json
+C:\Users\khanh\Downloads\DuAn1_Test (1)\1.DAL\bin\Debug\net5.0\1.DAL.runtimeconfig.json
+C:\Users\khanh\Downloads\DuAn1_Test (1)\1.DAL\bin\Debug\net5.0\1.DAL.runtimeconfig.dev.json
+C:\Users\khanh\Downloads\DuAn1_Test (1)\1.DAL\bin\Debug\net5.0\1.DAL.dll
+C:\Users\khanh\Downloads\DuAn1_Test (1)\1.DAL\bin\Debug\net5.0\1.DAL.pdb
+C:\Users\khanh\Downloads\DuAn1_Test (1)\1.DAL\obj\Debug\net5.0\1.DAL.csproj.AssemblyReference.cache
+C:\Users\khanh\Downloads\DuAn1_Test (1)\1.DAL\obj\Debug\net5.0\1.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khanh\Downloads\DuAn1_Test (1)\1.DAL\obj\Debug\net5.0\1.DAL.AssemblyInfoInputs.cache
+C:\Users\khanh\Downloads\DuAn1_Test (1)\1.DAL\obj\Debug\net5.0\1.DAL.AssemblyInfo.cs
+C:\Users\khanh\Downloads\DuAn1_Test (1)\1.DAL\obj\Debug\net5.0\1.DAL.csproj.CoreCompileInputs.cache
+C:\Users\khanh\Downloads\DuAn1_Test (1)\1.DAL\obj\Debug\net5.0\1.DAL.dll
+C:\Users\khanh\Downloads\DuAn1_Test (1)\1.DAL\obj\Debug\net5.0\refint\1.DAL.dll
+C:\Users\khanh\Downloads\DuAn1_Test (1)\1.DAL\obj\Debug\net5.0\1.DAL.pdb
+C:\Users\khanh\Downloads\DuAn1_Test (1)\1.DAL\obj\Debug\net5.0\1.DAL.genruntimeconfig.cache
+C:\Users\khanh\Downloads\DuAn1_Test (1)\1.DAL\obj\Debug\net5.0\ref\1.DAL.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DuAn1_Test (1)\1.DAL\bin\Debug\net5.0\1.DAL.deps.json
+C:\Users\ADMIN\OneDrive\Máy tính\DuAn1_Test (1)\1.DAL\bin\Debug\net5.0\1.DAL.runtimeconfig.json
+C:\Users\ADMIN\OneDrive\Máy tính\DuAn1_Test (1)\1.DAL\bin\Debug\net5.0\1.DAL.runtimeconfig.dev.json
+C:\Users\ADMIN\OneDrive\Máy tính\DuAn1_Test (1)\1.DAL\bin\Debug\net5.0\1.DAL.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DuAn1_Test (1)\1.DAL\bin\Debug\net5.0\1.DAL.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\DuAn1_Test (1)\1.DAL\obj\Debug\net5.0\1.DAL.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Máy tính\DuAn1_Test (1)\1.DAL\obj\Debug\net5.0\1.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\OneDrive\Máy tính\DuAn1_Test (1)\1.DAL\obj\Debug\net5.0\1.DAL.AssemblyInfoInputs.cache
+C:\Users\ADMIN\OneDrive\Máy tính\DuAn1_Test (1)\1.DAL\obj\Debug\net5.0\1.DAL.AssemblyInfo.cs
+C:\Users\ADMIN\OneDrive\Máy tính\DuAn1_Test (1)\1.DAL\obj\Debug\net5.0\1.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Máy tính\DuAn1_Test (1)\1.DAL\obj\Debug\net5.0\1.DAL.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DuAn1_Test (1)\1.DAL\obj\Debug\net5.0\refint\1.DAL.dll
+C:\Users\ADMIN\OneDrive\Máy tính\DuAn1_Test (1)\1.DAL\obj\Debug\net5.0\1.DAL.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\DuAn1_Test (1)\1.DAL\obj\Debug\net5.0\1.DAL.genruntimeconfig.cache
+C:\Users\ADMIN\OneDrive\Máy tính\DuAn1_Test (1)\1.DAL\obj\Debug\net5.0\ref\1.DAL.dll
+D:\FPT_Polytechnic\PRO131\DuAn1_Test (1)\1.DAL\bin\Debug\net5.0\1.DAL.deps.json
+D:\FPT_Polytechnic\PRO131\DuAn1_Test (1)\1.DAL\bin\Debug\net5.0\1.DAL.runtimeconfig.json
+D:\FPT_Polytechnic\PRO131\DuAn1_Test (1)\1.DAL\bin\Debug\net5.0\1.DAL.runtimeconfig.dev.json
+D:\FPT_Polytechnic\PRO131\DuAn1_Test (1)\1.DAL\bin\Debug\net5.0\1.DAL.dll
+D:\FPT_Polytechnic\PRO131\DuAn1_Test (1)\1.DAL\bin\Debug\net5.0\1.DAL.pdb
+D:\FPT_Polytechnic\PRO131\DuAn1_Test (1)\1.DAL\obj\Debug\net5.0\1.DAL.csproj.AssemblyReference.cache
+D:\FPT_Polytechnic\PRO131\DuAn1_Test (1)\1.DAL\obj\Debug\net5.0\1.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT_Polytechnic\PRO131\DuAn1_Test (1)\1.DAL\obj\Debug\net5.0\1.DAL.AssemblyInfoInputs.cache
+D:\FPT_Polytechnic\PRO131\DuAn1_Test (1)\1.DAL\obj\Debug\net5.0\1.DAL.AssemblyInfo.cs
+D:\FPT_Polytechnic\PRO131\DuAn1_Test (1)\1.DAL\obj\Debug\net5.0\1.DAL.csproj.CoreCompileInputs.cache
+D:\FPT_Polytechnic\PRO131\DuAn1_Test (1)\1.DAL\obj\Debug\net5.0\1.DAL.dll
+D:\FPT_Polytechnic\PRO131\DuAn1_Test (1)\1.DAL\obj\Debug\net5.0\refint\1.DAL.dll
+D:\FPT_Polytechnic\PRO131\DuAn1_Test (1)\1.DAL\obj\Debug\net5.0\1.DAL.pdb
+D:\FPT_Polytechnic\PRO131\DuAn1_Test (1)\1.DAL\obj\Debug\net5.0\1.DAL.genruntimeconfig.cache
+D:\FPT_Polytechnic\PRO131\DuAn1_Test (1)\1.DAL\obj\Debug\net5.0\ref\1.DAL.dll
